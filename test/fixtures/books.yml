@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  claveinterna: MyString
+  ejemplar: MyString
+  autor: MyString
+  editorial: MyString
+  tema: MyString
+  isbn: MyString
+  categoria: MyString
+  provider_id: 
+
+two:
+  claveinterna: MyString
+  ejemplar: MyString
+  autor: MyString
+  editorial: MyString
+  tema: MyString
+  isbn: MyString
+  categoria: MyString
+  provider_id: 
